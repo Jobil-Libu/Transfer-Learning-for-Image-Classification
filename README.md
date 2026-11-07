@@ -23,7 +23,7 @@ It implements two training phases:
 - Confusion matrix, classification report, and per-class accuracy evaluation
 
 ### Technologies Used
-Python | TensorFlow | Keras | NumPy | Matplotlib | Scikit-learn | Google Colab
+Python | TensorFlow | Keras | NumPy | Matplotlib | Scikit-learn | Kaggle Notebook
 
 ### Objective
 To explore how transfer learning can leverage pretrained CNN architectures for image classification and understand the impact of fine-tuning, regularization, and training strategies on model generalization.
